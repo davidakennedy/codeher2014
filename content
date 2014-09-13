@@ -1,0 +1,67 @@
+<h1>Testing for Web Accessibility with Free Tools</h1>
+<h2>Theminator for Automattic</h2>
+<p>I love the Web, accessibility and open source.</p>
+<p>davidakennedy.com/speaking</p><p>a11y.me</p>
+<h3>Where are we headed?</h3>
+<p>What's web accessibility?</p>
+<p>An introduction to standards</p>
+<p>What accessibility is really about?</p>
+<p>Demos + tools</p>
+<h3>What's web accessibility?</h3>
+<p>The practice of making websites and applications usable by people of all abilities.</p>
+<h3>Why?</h3>
+<p>1/5 have a disability</p>
+img/bridge.jpg
+<p>Cross the bridge.</p>
+<p>How do we get there?</p>
+img/lights.jpg
+<h3>Standards</h3>
+<p>Section 508 = WCAG 2?</p>
+<h4>Section 508</h4>
+<p>First federal law</p>
+<p>Could be monitored</p>
+<p>Applied to State Govts</p>
+<p>Applied to businesses</p>
+<h4>WCAG 2.0</h4>
+<p>Stable, referenceable technical standard</p>
+<p>12 guidelines; 4 principles</p>
+<p>Perceivable, Operable, Understandable, Robust</p>
+<p>Testable success criteria, Three levels: A, AA, and AAA</p>
+<p>webaim.org/resources/designers</p>
+img/shuttle.jpg
+<h3>But how?</h3>
+<p>Three key areas</p>
+<h4>Decisions</h4>
+<p>These are usually strategy-related usually. Sometimes, points of no return</p>
+<p>Example: Making a "separate, accessible" website</p>
+<h4>People</h4>
+<p>What if they don't know?</p>
+<p>Example: A developer doesn't use real buttons</p>
+<h4>Details</h4>
+<p>Hi, my name is minutia</p>
+<p>Example: Ensuring your colors are high contrast</p>
+<h4>All of these can be one in the same</h4>
+<h4>What do we do about it?</h4>
+<p>Ask good questions</p>
+<h4>Everyone has to know one thing</h4>
+<p>Simple vs. complex</p>
+<p>How does it work?</p>
+img/mechanic.jpg
+<h3>One workflow</h3>
+<p>Easy checks!</p>
+<p>Wave + Validator + Automation</p>
+<p>Title</p>
+<p>Alt text</p>
+<p>Headings</p>
+<p>Contrast</p>
+<p>Text resize</p>
+<p>Keyboard interaction</p>
+<p>Forms, labels & errors</p>
+<p>Multimedia alternatives</p>
+<p>Structure check</p>
+<p>Screen reader check</p>
+img/oneway.jpg
+<h3>Next steps</h3>
+<p>Toward change</p>
+<p>Dig deeper</p>
+<p>davidakennedy.com</p><br><p>davidakennedy.com/speaking</p><br><p>a11y.me&nbsp;&nbsp;&nbsp;&nbsp;:)&nbsp;&crarr;</p>
