@@ -9,3 +9,7 @@ All code by [Aaron Jorbin](http://aaron.jorb.in/), using his [WordCamp Chicago 2
 Fonts:
 
 * [Rokkitt](https://www.google.com/fonts/specimen/Rokkitt)
+
+Photos:
+
+* [Pexels](http://www.pexels.com/)
